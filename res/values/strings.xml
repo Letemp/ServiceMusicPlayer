@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceMusicPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">听音乐，用酷我！\n好音质，用酷我！</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
